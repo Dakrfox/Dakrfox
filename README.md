@@ -1,4 +1,4 @@
-# Hi visitor 👋
+## Hi visitor 👋
 Welcome to my GitHub page! As a young and passionate Fullstack Developer, I am delighted to share with you my projects and experiences in the world of software development. My primary focus is on the BackEnd, but I have also gained expertise in technologies such as MongoDB, PostgreSQL, Express.js, React.js, Next.js, and Node.js.
 
 As a freelancer, I am constantly striving to improve my skills and keep up with the latest trends in the industry. I am dedicated to delivering high-quality and innovative solutions to my clients.
@@ -6,7 +6,7 @@ As a freelancer, I am constantly striving to improve my skills and keep up with 
 Thank you for taking the time to visit my page, and I hope you enjoy exploring my work.
 
 ---
-## About me 👨‍💻
+### About me 👨‍💻
 <ul>
     <li>Fullstack developer with a strong inclination towards backend development.</li>
     <li>Passionate about delivering high-quality and innovative solutions to clients.</li>
@@ -32,6 +32,9 @@ If you're looking for a talented and reliable developer to help bring your proje
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"  width="40" height="40" alt="JavaScript" srcset="">
     </div>
 </div>
+---
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dakrfox&theme=radical&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **Dakrfox/Dakrfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
