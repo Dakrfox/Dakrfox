@@ -34,12 +34,11 @@ If you're looking for a talented and reliable developer to help bring your proje
 </div>
 ---
 ### My stats: 
-<br>
-<center>
-    
+
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dakrfox&theme=radical&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 
-</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dakrfox/Dakrfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
