@@ -1,4 +1,4 @@
-### Hi Visitor 👋
+### Hi visitor 👋
 Welcome to my GitHub page! As a young and passionate Fullstack Developer, I am delighted to share with you my projects and experiences in the world of software development. My primary focus is on the BackEnd, but I have also gained expertise in technologies such as MongoDB, PostgreSQL, Express.js, React.js, Next.js, and Node.js.
 
 As a freelancer, I am constantly striving to improve my skills and keep up with the latest trends in the industry. I am dedicated to delivering high-quality and innovative solutions to my clients.
