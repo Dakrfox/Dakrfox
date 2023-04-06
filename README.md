@@ -10,18 +10,17 @@ Thank you for taking the time to visit my page, and I hope you enjoy exploring m
 <div align="left">
     <h3>Tools & languages</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="PosgreSQL" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="MongoDB" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="Express" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PosgreSQL" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  width="40" height="40" alt="MongoDB" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  width="40" height="40" alt="Express" srcset="">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="React" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="Next" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="Node" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="HTML" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="CSS" srcset="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="40" height="40" alt="JavaScript" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  width="40" height="40" alt="Next" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  width="40" height="40" alt="Node" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  width="40" height="40" alt="Webpack" srcset="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"  width="40" height="40" alt="Wordpress" srcset="">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"  width="40" height="40" alt="JavaScript" srcset="">
     </div>
 </div>
-
 <!--
 **Dakrfox/Dakrfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
