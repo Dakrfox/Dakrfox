@@ -6,6 +6,20 @@ As a freelancer, I am constantly striving to improve my skills and keep up with 
 Thank you for taking the time to visit my page, and I hope you enjoy exploring my work.
 
 ---
+<ul>
+    <li>Fullstack developer with a strong inclination towards backend development.</li>
+    <li>Skilled in technologies such as MongoDB, PostgreSQL, Express.js, React.js, Nest.js, and Node.js.</li>
+    <li>Passionate about delivering high-quality and innovative solutions to clients.</li>
+    <li>Constantly learning and keeping up with the latest trends in the industry.</li>
+    <li>Strong attention to detail and problem-solving skills.</li>
+    <li>Excellent communication skills and ability to work effectively in a team.</li>
+    <li>Dedicated to providing exceptional customer service and meeting project deadlines.</li>
+    <li>Always looking for new challenges and opportunities to grow my skills.</li>
+    <li>Committed to delivering projects on time and on budget.</li>
+    If you're looking for a talented and reliable developer to help bring your project to life, I would be honored to work with you. Please don't hesitate to reach out 
+</ul>
+
+if you have any questions or if you would like to discuss your project further.
 
 <div align="left">
     <h3>Tools & languages</h3>
