@@ -8,13 +8,13 @@ Thank you for taking the time to visit my page, and I hope you enjoy exploring m
 ---
 ### About me 👨‍💻
 <ul>
-    <li>Fullstack developer with a strong inclination towards backend development.</li>
-    <li>Passionate about delivering high-quality and innovative solutions to clients.</li>
-    <li>Constantly learning and keeping up with the latest trends in the industry.</li>
-    <li>Strong attention to detail and problem-solving skills.</li>
-    <li>Excellent communication skills and ability to work effectively in a team.</li>
-    <li>Always looking for new challenges and opportunities to grow my skills.</li>
-    <li>Committed to delivering projects on time and on budget.</li>
+    <li>💻 Fullstack developer with a strong inclination towards backend development.</li>
+    <li>🔥 Passionate about delivering high-quality and innovative solutions to clients.</li>
+    <li>📖 Constantly learning and keeping up with the latest trends in the industry.</li>
+    <li>🔎 Strong attention to detail and problem-solving skills.</li>
+    <li>🤝 Excellent communication skills and ability to work effectively in a team.</li>
+    <li>🚀 Always looking for new challenges and opportunities to grow my skills.</li>
+    <li>💯 Committed to delivering projects on time and on budget.</li>
 </ul>
 If you're looking for a talented and reliable developer to help bring your project to life, I would be honored to work with you. Please don't hesitate to reach out, if you have any questions or if you would like to discuss your project further.
 
@@ -32,13 +32,30 @@ If you're looking for a talented and reliable developer to help bring your proje
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png"  width="40" height="40" alt="JavaScript" srcset="">
     </div>
 </div>
+
 ---
+
+
+
+    
 ### My stats: 
+    
+    
 
 
+
+    
+    
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dakrfox&theme=radical&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+    
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakrfox&show_icons=true&theme=radical)
+
+    
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakrfox)](https://github.com/anuraghazra/github-readme-stats)
+    
 
 <!--
 **Dakrfox/Dakrfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
